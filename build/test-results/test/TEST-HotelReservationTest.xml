@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HotelReservationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-16T16:02:51" hostname="DESKTOP-7FT5EBS" time="0.006">
+<testsuite name="HotelReservationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-16T16:11:07" hostname="DESKTOP-7FT5EBS" time="0.003">
   <properties/>
-  <testcase name="givenHotelList_ShouldReturnCheapestHotelInGivenDateRange" classname="HotelReservationTest" time="0.006"/>
+  <testcase name="givenWeekendWeekdayRates_WhenHotelCreated_ShouldNotBeNull" classname="HotelReservationTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
